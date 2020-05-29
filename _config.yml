@@ -1,14 +1,14 @@
 # Site settings
-title:          Carlos Requena
-description:    "Carlos Requena. Writing about coding, maths, distributed systems, performance optimisation, blockchain."
+title:          Mariel Carreño
+#description:    "Mariel Carreño. Writing about coding, maths, distributed systems, performance optimisation, blockchain."
 baseurl:        ""
-url:            "https://cjrequena.github.io"
+url:            "https://mvcarreno.github.io"
 
 # Author
 author:
-  name:         Carlos Requena
-  url:          https://cjrequena.github.io
-  email:        carlosjose.requena@gmail.com
+  name:         Mariel Carreño
+  url:          https://mvcarreno.github.io
+  email:        mariel.carreno@gmail.com
 
 data.text.index.coming_soon: COMING SOON
 
@@ -26,21 +26,21 @@ enable_mathjax: true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: cjrequena-blog
+disqus_shortname: mvcarreno-blog
 
 # Social icons
 show_social_icons: true
-github_username: cjrequena
-reddit_username: cjrequena
+github_username: mvcarreno
+reddit_username: mvcarreno
 bitbucket_username:
 stackoverflow_id:
-twitter_username: cjrequena
+twitter_username: mvcarreno
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username: cjrequena
+linkedin_username: mvcarreno
 angellist_username:
-medium_id: cjrequena
+medium_id: mvcarreno
 bitcoin_url:
 paypal_url:
 flattr_button:
